@@ -125,7 +125,7 @@ print("NIRAUNJANA GAYATHRI G R 212222230096")
 
 ### Mean Square Error
 
-![image](https://github.com/niraunjana/rnn-stock-price-prediction/assets/119395610/243733ee-9474-44f7-a04c-60a8b34364a1)
+![image](https://github.com/niraunjana/rnn-stock-price-prediction/assets/119395610/bbb48236-911a-4833-92f2-c02a01f1f3e7)
 
 
 ## RESULT
