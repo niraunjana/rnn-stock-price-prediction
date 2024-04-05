@@ -119,8 +119,7 @@ print("NIRAUNJANA GAYATHRI G R 212222230096")
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/niraunjana/rnn-stock-price-prediction/assets/119395610/ad959562-ac5e-450c-85bb-092194eee9cb)
-
+![image](https://github.com/niraunjana/rnn-stock-price-prediction/assets/119395610/adf82dda-79a8-4667-8d76-63bf1e5c4aa6)
 
 
 ### Mean Square Error
